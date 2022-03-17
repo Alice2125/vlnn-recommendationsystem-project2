@@ -1,3 +1,4 @@
+python == 3.5
 streamlit
 numpy
 pandas
@@ -8,4 +9,4 @@ surprise
 wordcloud
 plotly
 underthesea
-Flask==1.1.1
+pickle
