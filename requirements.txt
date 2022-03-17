@@ -8,3 +8,4 @@ surprise
 wordcloud
 plotly
 underthesea
+Flask==1.1.1
