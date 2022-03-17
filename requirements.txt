@@ -8,4 +8,4 @@ surprise
 wordcloud
 plotly
 underthesea
-pickle
+pickle-mixin
